@@ -1,1 +1,3 @@
 # practice
+
+If it has been a while and need to practice basics... 
